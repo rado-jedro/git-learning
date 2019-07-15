@@ -1,3 +1,5 @@
 
 autoprefixer-cli -o style.prefixed.css style.css
 
+nu-html-checker -f, --formatter stylish index.html
+
